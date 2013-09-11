@@ -11,7 +11,9 @@ namespace RebaseDemo
         static void Main(string[] args)
         {
             Console.WriteLine("this is in development");
+            Console.WriteLine("this is in shinetech");
             Console.WriteLine("2 : this is in development");
+            Console.WriteLine("2 : This is in shinetech");
         }
     }
 }
